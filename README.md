@@ -4,7 +4,7 @@
 <div style="display:flex">
 
 <div style="flex:1;padding-right:10px;">
-     <a href="https://github.com/oakoudad/badge42"><img align="left" src="https://badge.mediaplus.ma/greenbinary/abouabra" alt="abouabra's 42 stats" /></a>
+     <a href="https://github.com/oakoudad/badge42"><img align="left" src="https://badge.mediaplus.ma/darkblue/abouabra" alt="abouabra's 42 stats" /></a>
 </div>
 
 
@@ -21,7 +21,7 @@
   </div>
 
 </div>
-<br><br>
+<br><br><br><br>
 
 <a href="https://github.com/abouabra/abouabra">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abouabra&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
