@@ -1,9 +1,24 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+[![MasterHead](https://camo.githubusercontent.com/428849a3d464b1157a940971233a54d081bfa7ea3f3a47c62d1e2854c0e19566/68747470733a2f2f70726f736566756c2e696d6769782e6e65742f626c6f67732f64663337333431342d653737632d346433642d386337622d3335636635356632333339362f696d616765732f34336263316535372d356665662d343436302d626630382d3466373966333635343535352e676966)](https://github.com/abouabra)
 
 <h1 align="center">Hi 👋, I'm Ayman Bouabra</h1>
 <h3 align="center">A passionate python developer from Morocco</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abouabra" alt="abouabra" /></a> </p> -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abouabra&label=Profile%20views&color=ca8b00&style=plastic" alt="abouabra" /> </p>
+
+
+
+- 🔭 I’m currently working on **My Portfolio**
+
+- 🌱 I’m currently learning **DevOps**
+
+- 💬 Ask me about **Python , web development**
+
+- 📫 How to reach me **aymanbouabra@gmail.com**
+
+- ⚡ Fun fact **Outer space is just an hour's drive if your car could drive straight up**
+
 
 
 <h3 align="left">Connect with me:</h3>
