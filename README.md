@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abouabra/abouabra/main/side%20item.gif">
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abouabra" alt="abouabra" /></a> </p> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abouabra&label=Profile%20views&color=ca8b00&style=plastic" alt="abouabra" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abouabra&label=Profile%20views&color=5e5e5d&style=plastic" alt="abouabra" /> </p>
 
 
 
