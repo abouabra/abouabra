@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ayman Bouabra</h1>
 <h3 align="center">A passionate python developer from Morocco</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/bc/32/25/bc32252ba4c0b904b160e7cc864a9257.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abouabra/abouabra/main/side%20item.gif">
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abouabra" alt="abouabra" /></a> </p> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abouabra&label=Profile%20views&color=ca8b00&style=plastic" alt="abouabra" /> </p>
