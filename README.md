@@ -1,8 +1,8 @@
-[![MasterHead](https://camo.githubusercontent.com/428849a3d464b1157a940971233a54d081bfa7ea3f3a47c62d1e2854c0e19566/68747470733a2f2f70726f736566756c2e696d6769782e6e65742f626c6f67732f64663337333431342d653737632d346433642d386337622d3335636635356632333339362f696d616765732f34336263316535372d356665662d343436302d626630382d3466373966333635343535352e676966)](https://github.com/abouabra)
+[![MasterHead](https://i.pinimg.com/originals/01/78/71/0178717b986c40c909e35213e4f25ad0.gif)](https://github.com/abouabra)
 
 <h1 align="center">Hi 👋, I'm Ayman Bouabra</h1>
 <h3 align="center">A passionate python developer from Morocco</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/bc/32/25/bc32252ba4c0b904b160e7cc864a9257.gif">
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abouabra" alt="abouabra" /></a> </p> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abouabra&label=Profile%20views&color=ca8b00&style=plastic" alt="abouabra" /> </p>
