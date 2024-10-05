@@ -2,22 +2,25 @@
 
 <h1 align="center">Hi 👋, I'm Ayman Bouabra</h1>
 <h3 align="center">A passionate python developer from Morocco</h3>
+
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abouabra/abouabra/main/side%20item.gif">
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abouabra" alt="abouabra" /></a> </p> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abouabra&label=Profile%20views&color=5e5e5d&style=plastic" alt="abouabra" /> </p>
+<p align="left">
+     <img src="https://komarev.com/ghpvc/?username=abouabra&label=Profile%20views&color=5e5e5d&style=plastic" alt="abouabra" />
+</p>
 
 
 
-- 🔭 I’m currently working on **My Portfolio**
+- 🔭 I’m currently working on **ft_transcendence**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **ThreeJS**
 
-- 💬 Ask me about **Python , web development**
+- 💬 Ask me about **C/C++, Python, Django, APIs, Web Development**
 
-- 📫 How to reach me **aymanbouabra@gmail.com**
+- 📫 How to reach me: **aymanbouabra@gmail.com**
 
-- ⚡ Fun fact **Outer space is just an hour's drive if your car could drive straight up**
+- ⚡ looking for a job **<a href="https://drive.google.com/file/d/1J9J9Q6J9J9Q6J9Q6J9Q6J9Q6J9Q6J9Q6/view?usp=sharing">My Resume</a>**
 
 
 
