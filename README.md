@@ -20,7 +20,7 @@
 
 - 📫 How to reach me: **aymanbouabra@gmail.com**
 
-- ⚡ looking for a job **<a href="https://github.com/abouabra/abouabra/blob/main/My%20Resume.pdf">My Resume</a>**
+- ⚡ looking for a job **<a href="https://github.com/abouabra/abouabra/blob/main/New%20Resume.pdf">My Resume</a>**
 
 
 
